@@ -11,4 +11,6 @@ No rights to the source code are granted through this repository.
 Use of the software is subject to the applicable license terms and
 conditions available at:
 
+https://github.com/OlympProject/olympssh-commander-release/blob/main/EULA.md
+and
 https://olympstack.com/olympssh-commander/eula
