@@ -247,6 +247,20 @@ For product questions, licensing, and support:
 
 When reporting an issue, include the app version, operating system, target server type, and a description of the workflow. Do not include passwords, private keys, activation tokens, or other secrets.
 
+## OlympStack Suite
+
+OlympStack is a suite of native desktop tools for developers and DevOps engineers.
+
+| App | Repository |
+|-----|------------|
+| OlympAPI | [github.com/OlympProject/olympapi-release](https://github.com/OlympProject/olympapi-release) |
+| OlympAtlas | [github.com/OlympProject/olympatlas-release](https://github.com/OlympProject/olympatlas-release) |
+| OlympCron Manager | [github.com/OlympProject/olympcron-manager-release](https://github.com/OlympProject/olympcron-manager-release) |
+| OlympSSH Commander | [github.com/OlympProject/olympssh-commander-release](https://github.com/OlympProject/olympssh-commander-release) |
+| OlympTest Manager | [github.com/OlympProject/olymptest-manager-release](https://github.com/OlympProject/olymptest-manager-release) |
+
+---
+
 ## License
 
 OlympSSH Commander is proprietary software. This repository contains binary releases and related documentation only.
