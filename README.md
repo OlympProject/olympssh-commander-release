@@ -2,6 +2,14 @@
 
 **SSH server monitoring, Docker management, terminal access, command templates, and alerts in one native app.**
 
+[![Latest Release](https://img.shields.io/github/v/release/OlympProject/olympssh-commander-release?display_name=release&style=for-the-badge&logo=github)](https://github.com/OlympProject/olympssh-commander-release/releases/latest)
+[![Releases](https://img.shields.io/badge/Releases-All%20versions-1f6feb?style=for-the-badge&logo=github)](https://github.com/OlympProject/olympssh-commander-release/releases)
+[![Download Latest](https://img.shields.io/badge/Download-Latest%20Release-2ea043?style=for-the-badge&logo=github)](https://github.com/OlympProject/olympssh-commander-release/releases/latest)
+[![Website](https://img.shields.io/badge/Website-olympstack.com%2Folympssh-0a66c2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://olympstack.com/olympssh-commander)
+
+[![User Manual](https://img.shields.io/badge/User%20Manual-Read-cd7f32?style=for-the-badge&logo=readme&logoColor=white)](USERMANUAL.md)
+[![EULA](https://img.shields.io/badge/EULA-View-8250df?style=for-the-badge&logo=github)](EULA.md)
+
 OlympSSH Commander is a desktop and mobile server administration app for Linux servers reachable through SSH. It helps operators, developers, homelab users, and small teams monitor server health, inspect Docker workloads, run recurring commands, and respond to problems without opening multiple separate tools.
 
 Website: https://olympstack.com  
